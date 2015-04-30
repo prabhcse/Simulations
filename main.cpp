@@ -1,5 +1,3 @@
-// Jason Jue
-
 #include <iostream>
 #include "rv.h"
 #include "event.h"
